@@ -90,6 +90,10 @@ button p{
   
 }
 
+button img{
+	margin: 18px 0 0 15px;
+}
+
 
 .content{
 	margin: auto;
@@ -212,14 +216,18 @@ h2{
 	margin: 0 0 0 0;
 }
 
-.container_2 p{
+.container_2 p {
 	font-size: 18px;
   font-family: 'Work Sans', sans-serif;
-  color: #FF3645;
   font-weight: bold;
   line-height: 1.153;
   text-align: center;
   margin: 56px 0 0 0;
+}
+
+.container_2 p a{
+text-decoration: none;
+  color: #FF3645;
 }
 
 .contact_us{
@@ -462,6 +470,9 @@ button p{
   
 }
 
+button img{
+	margin: 18px 0 0 15px;
+}
 
 .content{
 	margin: auto;
@@ -546,11 +557,17 @@ border-radius: 100px;
 	position: absolute;
 }
 
+
 .container_2{
 	margin: auto;
 	width: 1169px;
 	margin-top: 100px;
 	margin-bottom: 300px;
+}
+
+.container_2 p a{
+text-decoration: none;
+  color: #FF3645;
 }
 
 h2{
