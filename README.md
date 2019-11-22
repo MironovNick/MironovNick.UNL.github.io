@@ -1,1 +1,1 @@
-MironovNick.UNL.github.io
+MironovNick.github.io
